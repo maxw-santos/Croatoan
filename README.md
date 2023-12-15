@@ -56,7 +56,7 @@ a uma pedra que profana a vida.</p>
  <tr>
   <td> <img src='team_icons/maxwel_o_chefejpeg.jpeg' width='150px' height='150px'/> <br> <p align='center'> Maxwel Gomes </p></td>
   <td> <img src='team_icons/o designer.jpeg' width='150px' height='150px'/> <br> <p align='center'> Gabriel Dext </p></td>
-  <td> <img src='team_icons/o_mapper.jpg' width='150px' height='150px'/> <br> <p align='center'> Antonio Silvestre </p></td>
+  <td> <img src='team_icons/o_mapper.jpeg' width='150px' height='150px'/> <br> <p align='center'> Antonio Silvestre </p></td>
   <td> <img src='team_icons/O programador.jpg' width='150px' height='150px'/> <br> <p align='center'> Raul Braga </p></td>
  </tr>
 </table>
