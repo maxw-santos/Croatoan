@@ -1,5 +1,0 @@
-[
-null,
-{"id":1,"battlerName":"jhonny_final","characterIndex":0,"characterName":"jhonny_final","classId":2,"equips":[0,0,2,3,0],"faceIndex":0,"faceName":"jhonny_final","traits":[{"code":51,"dataId":1,"value":1},{"code":43,"dataId":12,"value":1}],"initialLevel":5,"maxLevel":99,"name":"Jhonny","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"morgana","characterIndex":0,"characterName":"morgana","classId":4,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"morgana","traits":[{"code":43,"dataId":11,"value":1},{"code":41,"dataId":2,"value":1},{"code":51,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Morgana","nickname":"","note":"","profile":""}
-]
